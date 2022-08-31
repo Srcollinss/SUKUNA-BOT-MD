@@ -30,7 +30,7 @@ MARCA A TERCEIRA CAIXINHA E APERTA OK
 
 10° git clone https://github.com/Srcollinss/SUKUNA-BOT-MD
 
-11° cd /SUKUNA-BOT-MD
+11° cd /sdcard/SUKUNA-BOT-MD
 
 12° sh start.sh
 
